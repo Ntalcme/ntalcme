@@ -15,5 +15,3 @@
 		<img alt="github-chart" src="/github-metrics.svg" width="400px">
 	</picture>
 </div>
-
-<img alt="github-chart" src="/ntalcme/ntalcme/raw/main/github-metrics.svg" width="400px" style="visibility:visible;max-width:100%;">
