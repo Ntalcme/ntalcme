@@ -1,4 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
+<div align="center">
+  <a href="https://wakatime.com/@860bb1e2-475b-4f61-ae1b-4ec2ce43ad2b"><img align="center" src="https://wakatime.com/badge/user/860bb1e2-475b-4f61-ae1b-4ec2ce43ad2b.svg" alt="Total time coded since Oct 21 2024" /></a>
+</div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
