@@ -9,4 +9,4 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-<img alt="github-chart" src="https://skillicons.dev/icons?i=discord,py,js,ts,html,css,git,github,gitlab,vscode,webstorm,pycharm,docker">
+<img alt="github-chart" src="https://skillicons.dev/icons?i=discord,py,js,ts,html,css,c,git,github,gitlab,vscode,webstorm,pycharm,docker">
