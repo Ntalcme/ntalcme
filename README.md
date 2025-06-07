@@ -5,7 +5,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left"><br>- 🔭 I’m working as a student in France, studying <b>Maths/Info</b>.<br>- 📚 I'm currently learning <b>Python</b> and some mathematics things at the University.<br>- ⚡ In my free time I keep coding and learning others programmation languages, especially <b>Typescript</b> at this time.<br>- 💻 I'm contributing for a project called <a href="https://github.com/DraftBot-A-Discord-Adventure/DraftBot/tree/draftbot-v5">DraftBot</a> a text adventure game with over 20 000 users, feel free to take a look.</p>
+<p align="left"><br>- 🔭 I’m working as a student in France, studying <b>Maths/Info</b>.<br>- 📚 I'm currently learning <b>Python</b> and some mathematics things at the University.<br>- ⚡ In my free time I keep coding and learning others programmation languages, especially <b>Typescript</b> at this time.<br>- 💻 I'm contributing for a project called <a href="https://github.com/DraftBot-A-Discord-Adventure/DraftBot">DraftBot</a> a text adventure game with over 20 000 users, feel free to take a look.</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
