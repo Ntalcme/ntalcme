@@ -10,7 +10,7 @@ jobs:
     name: readme update
     runs-on: ubuntu-latest
     steps:
-      - uses: daoch4n/github-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           LOCALE: "en"
           COMMIT_BY_ME: "False"
