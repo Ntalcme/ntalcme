@@ -83,7 +83,21 @@ Windows                  4 hrs 37 mins       ███████████�
             🟢 Ongoing
         </td>
         <td>
-            <img align="center" alt="ts icon" src="https://skillicons.dev/icons?i=ts" height="30px">
+            <img alt="ts icon" src="https://skillicons.dev/icons?i=ts" height="30px">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Ntalcme/nt_library">nt_library</a>
+        </td>
+        <td>
+            My custom library for C.
+        </td>
+        <td>
+            🟢 Ongoing
+        </td>
+        <td>
+            <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
         </td>
     </tr>
 </table>
