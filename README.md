@@ -99,5 +99,18 @@ Windows                  4 hrs 37 mins       ███████████�
         <td>
             <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
         </td>
+    <tr>
+        <td>
+            <a href="https://github.com/Ntalcme/nt_printf">nt_printf</a>
+        </td>
+        <td>
+             My personal remake of the C printf function 
+        </td>
+        <td>
+            🔴 Closed
+        </td>
+        <td>
+            <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
+        </td>
     </tr>
 </table>
