@@ -91,7 +91,7 @@ Windows                  4 hrs 37 mins       ███████████�
             <a href="https://github.com/Ntalcme/nt_library">nt_library</a>
         </td>
         <td>
-            My custom library for C.
+            My custom library for C
         </td>
         <td>
             🟢 Ongoing
