@@ -12,4 +12,5 @@
     <h3>Tools</h3>
     <img alt="github-chart" src="https://skillicons.dev/icons?i=discord,git,github,gitlab,vscode,webstorm,pycharm,ubuntu,pnpm,nodejs,docker" height="35px">
 </div>
-![WakaTime Stats](https://github-readme-stats-daoc.vercel.app/api/wakatime?username=ntalcme)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
