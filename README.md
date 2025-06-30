@@ -63,3 +63,26 @@ Windows                  4 hrs 37 mins       ███████████�
 
  Last Updated on 30/06/2025 19:58:54 UTC
 <!--END_SECTION:waka-->
+
+<table>
+    <tr>
+        <th>Projects</th>
+        <th>Description</th>
+        <th>Status</th>
+        <th>Language</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Crownicles/Crownicles">Crownicles</a>
+        </td>
+        <td>
+            A Discord bot Adventure Game
+        </td>
+        <td>
+            🟢 Ongoing
+        </td>
+        <td>
+            <img align="center" alt="ts icon" src="https://skillicons.dev/icons?i=ts" height="30px">
+        </td>
+    </tr>
+</table>
