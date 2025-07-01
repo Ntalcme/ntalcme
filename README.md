@@ -70,6 +70,8 @@ Windows                  4 hrs 37 mins       ███████████�
         <th>Projects</th>
         <th>Description</th>
         <th>Status</th>
+        <th>As</th>
+        <th>Context</th>
         <th>Language</th>
     </tr>
     <tr>
@@ -81,6 +83,12 @@ Windows                  4 hrs 37 mins       ███████████�
         </td>
         <td>
             🟢 Ongoing
+        </td>
+        <td>
+            Contributor
+        </td>
+        <td>
+            Personal Project
         </td>
         <td>
             <img alt="ts icon" src="https://skillicons.dev/icons?i=ts" height="30px">
@@ -97,6 +105,12 @@ Windows                  4 hrs 37 mins       ███████████�
             🟢 Ongoing
         </td>
         <td>
+            Author
+        </td>
+        <td>
+            Personal Project
+        </td>
+        <td>
             <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
         </td>
     <tr>
@@ -108,6 +122,12 @@ Windows                  4 hrs 37 mins       ███████████�
         </td>
         <td>
             🔴 Closed
+        </td>
+        <td>
+            Author
+        </td>
+        <td>
+            Personal Project
         </td>
         <td>
             <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
@@ -122,6 +142,12 @@ Windows                  4 hrs 37 mins       ███████████�
         </td>
         <td>
             🔴 Closed
+        </td>
+        <td>
+            Author
+        </td>
+        <td>
+            University
         </td>
         <td>
             <img alt="ts icon" src="https://skillicons.dev/icons?i=py" height="30px">
