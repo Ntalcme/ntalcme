@@ -134,24 +134,4 @@ Windows                  2 hrs 17 mins       ██████░░░░░�
             <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/Ntalcme/Textual-2048">Textual-2048</a>
-        </td>
-        <td>
-             A textual 2048 in Python
-        </td>
-        <td>
-            🔴 Closed
-        </td>
-        <td>
-            Author
-        </td>
-        <td>
-            University
-        </td>
-        <td>
-            <img alt="ts icon" src="https://skillicons.dev/icons?i=py" height="30px">
-        </td>
-    </tr>
 </table>
