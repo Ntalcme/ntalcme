@@ -1,6 +1,6 @@
 <div>
     <h3>Languages/Libraries</h3>
-    <img alt="github-chart" src="https://skillicons.dev/icons?i=c,py,js,ts,discordjs,html,css,md,bash" height="35px">
+    <img alt="github-chart" src="https://skillicons.dev/icons?i=c,py,js,ts,discordjs,html,css,md" height="35px">
 </div>
 <div>
     <h3>Tools</h3>
