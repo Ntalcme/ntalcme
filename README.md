@@ -94,26 +94,6 @@ Linux                    5 hrs               ███████████�
             <img alt="ts icon" src="https://skillicons.dev/icons?i=ts" height="30px">
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/Ntalcme/nt_library">nt_library</a>
-        </td>
-        <td>
-            My custom library for C
-        </td>
-        <td>
-            🟢 Ongoing
-        </td>
-        <td>
-            Author
-        </td>
-        <td>
-            Personal Project
-        </td>
-        <td>
-            <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
-        </td>
-    <tr>
         <td>
             <a href="https://github.com/Ntalcme/nt_printf">nt_printf</a>
         </td>
