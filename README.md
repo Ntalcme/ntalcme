@@ -111,4 +111,24 @@ Linux                    12 hrs 56 mins      ███████████�
             <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
         </td>
     </tr>
+    </tr>
+        <td>
+            <a href="https://github.com/Ntalcme/nt_string_c">nt_string_c</a>
+        </td>
+        <td>
+             My personal remake of the standard C <strong>string</strong> functions
+        </td>
+        <td>
+            🟢 Ongoing
+        </td>
+        <td>
+            Author
+        </td>
+        <td>
+            Personal Project
+        </td>
+        <td>
+            <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
+        </td>
+    </tr>
 </table>
