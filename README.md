@@ -71,7 +71,7 @@ Linux                    1 hr 17 mins        ███████████�
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/Crownicles/Crownicles">Crownicles</a>
+            <a href="https://github.com/Crownicles">Crownicles</a>
         </td>
         <td>
             A Discord bot Adventure Game
