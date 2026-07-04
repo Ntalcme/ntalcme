@@ -88,31 +88,12 @@ Linux                    9 hrs 59 mins       ███████████�
             <img alt="ts icon" src="https://skillicons.dev/icons?i=ts" height="30px">
         </td>
     </tr>
+    <tr>
         <td>
-            <a href="https://github.com/Ntalcme/nt_printf">nt_printf</a>
+            <a href="https://github.com/Crownutils">Crownutils</a>
         </td>
         <td>
-             My personal remake of the C printf function 
-        </td>
-        <td>
-            🔴 Closed
-        </td>
-        <td>
-            Author
-        </td>
-        <td>
-            Personal Project
-        </td>
-        <td>
-            <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
-        </td>
-    </tr>
-    </tr>
-        <td>
-            <a href="https://github.com/Ntalcme/nt_string_c">nt_string_c</a>
-        </td>
-        <td>
-             My personal remake of the standard C <strong>string</strong> functions
+            A helper Discord bot for Crownicles *(non affiliated)*
         </td>
         <td>
             🟢 Ongoing
@@ -124,7 +105,7 @@ Linux                    9 hrs 59 mins       ███████████�
             Personal Project
         </td>
         <td>
-            <img alt="ts icon" src="https://skillicons.dev/icons?i=c" height="30px">
+            <img alt="ts icon" src="https://skillicons.dev/icons?i=ts" height="30px">
         </td>
     </tr>
 </table>
