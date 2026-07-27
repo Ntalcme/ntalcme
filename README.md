@@ -9,28 +9,28 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-244.21%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-282.12%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1126 commits        ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-🌆 Daytime                783 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-🌃 Evening                1735 commits        ██████████░░░░░░░░░░░░░░░   39.66 % 
-🌙 Night                  731 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+🌞 Morning                1193 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌆 Daytime                839 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+🌃 Evening                1848 commits        ██████████░░░░░░░░░░░░░░░   39.65 % 
+🌙 Night                  781 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Tuesday                  1077 commits        ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Wednesday                348 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Thursday                 1488 commits        █████████░░░░░░░░░░░░░░░░   34.01 % 
-Friday                   520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Saturday                 197 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Sunday                   264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Monday                   506 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Tuesday                  1143 commits        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Wednesday                382 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Thursday                 1583 commits        ████████░░░░░░░░░░░░░░░░░   33.96 % 
+Friday                   547 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Saturday                 218 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Sunday                   282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 ```
 
 
@@ -38,23 +38,23 @@ Sunday                   264 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 4 mins       ███████████████████░░░░░░   75.11 % 
-Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+TypeScript               15 hrs 35 mins      ███████████████████░░░░░░   75.96 % 
+Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🐱‍💻 Projects: 
-crownutils               13 hrs 25 mins      ██████████████████░░░░░░░   71.63 % 
-Crownicles               4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-djs-bot-template         26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+crownutils               15 hrs 33 mins      ███████████████████░░░░░░   75.79 % 
+Crownicles               4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+djs-bot-template         26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 💻 Operating System: 
-Linux                    18 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/07/2026 01:24:20 UTC
+ Last Updated on 27/07/2026 01:28:29 UTC
 <!--END_SECTION:waka-->
 
 ---
