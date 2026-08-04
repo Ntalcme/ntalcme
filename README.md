@@ -40,46 +40,46 @@ Sunday                   300 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 22 mins        ████████████████░░░░░░░░░   62.65 % 
-JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Prisma                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+TypeScript               18 mins             █████████░░░░░░░░░░░░░░░░   37.62 % 
+JSON                     13 mins             ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Prisma                   11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🐱‍💻 Projects: 
-crownutils               2 hrs 6 mins        ████████████████████████░   95.95 % 
-djs-bot-template         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+crownutils               44 mins             ██████████████████████░░░   89.25 % 
+djs-bot-template         5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 
 💻 Operating System: 
-Linux                    2 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (97.43%)
+⏱ AI Coding Time: 48 mins (97.82%)
 
-✍️ 2,810 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,107 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 35,074,562 Input Tokens, 147,636 Output Tokens
+🔤 3,115,332 Input Tokens, 32,357 Output Tokens
 
-💵 $214.44 Estimated AI Cost This Week
+💵 $22.56 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-Opus                     2,899 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,137 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 499 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,554 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 01:25:04 UTC
+ Last Updated on 04/08/2026 01:15:17 UTC
 <!--END_SECTION:waka-->
 
 ---
