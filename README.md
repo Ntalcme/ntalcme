@@ -6,7 +6,6 @@
     <h3>Tools</h3>
     <img alt="github-chart" src="https://skillicons.dev/icons?i=discord,git,github,gitlab,vim,vscode,webstorm,pycharm,ubuntu,pnpm,nodejs,docker" height="35px">
 </div>
----
 <table>
     <tr>
         <th>Projects</th>
