@@ -1,9 +1,10 @@
 # Hi, I'm Ntalcme
 
 **Third-year Computer Science student (Licence 3) at the University of Lille, France, building with TypeScript and Node.js.**  
-📌 **Looking for a 2-month internship starting May 2027.**
+_📌 **Looking for a 2-month internship starting May 2027.**_
 
-I'm largely self-taught: beyond my university courses, I learn by building things and shipping real features in real codebases. My main experience comes from contributing to an open-source Discord game played by an active community.
+I'm largely **self-taught**: beyond my university courses, I learn by building things and shipping real features in real codebases. My main experience comes from contributing to an open-source Discord game played by an active community.
+
 ---
 
 ## Experience
@@ -34,7 +35,13 @@ I'm largely self-taught: beyond my university courses, I learn by building thing
 - **Rust**: my main focus right now
 - **Haskell**: exploring functional programming
 - **Nix / NixOS**: declarative system configuration and reproducible environments
-- 
+
+## What I care about
+
+- **Open source**: I believe software is better when it can be read, audited and improved by anyone, and I prefer to build in the open.
+- **Privacy**: I favor tools that respect their users and keep my own setup as private and self-controlled as possible.
+- **Daily tools**: Proton suite, Bitwarden, Ente Auth, and Fossify apps on Android, installed and updated from source releases with Obtainium.
+
 ## Get in touch
 
 - Email: [ntalcme@proton.me](mailto:ntalcme@proton.me) · [ntalcme@tutamail.com](mailto:ntalcme@tutamail.com)
