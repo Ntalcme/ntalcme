@@ -1,7 +1,7 @@
 # Hi, I'm Ntalcme
 
 **Third-year Computer Science student (Licence 3) at the University of Lille, France, building with TypeScript and Node.js.**  
-_📌 **Looking for a 2-month internship starting May 2027.**_
+_📌 **Looking for a 2-month internship starting April 2027 or no later than 1st June 2027.**_
 
 I'm largely **self-taught**: beyond my university courses, I learn by building things and shipping real features in real codebases. My main experience comes from contributing to an open-source Discord game played by an active community.
 
