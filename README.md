@@ -42,6 +42,8 @@ I'm largely **self-taught**: beyond my university courses, I learn by building t
 - **Privacy**: I favor tools that respect their users and keep my own setup as private and self-controlled as possible.
 - **Daily tools**: Proton suite, Bitwarden, Ente Auth, and Fossify apps on Android, installed and updated from source releases with Obtainium.
 
+<p> <img src="https://img.shields.io/badge/Proton-6D4AFF?style=flat-square&logo=proton&logoColor=white" alt="Proton" /> <img src="https://img.shields.io/badge/Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white" alt="Bitwarden" /> <img src="https://img.shields.io/badge/Ente_Auth-00BC45?style=flat-square&logo=ente&logoColor=white" alt="Ente Auth" /> <img src="https://img.shields.io/badge/Fossify-555555?style=flat-square" alt="Fossify" /> <img src="https://img.shields.io/badge/Obtainium-D2BCFD?style=flat-square&logo=obtainium&logoColor=black" alt="Obtainium" /> </p>
+
 ## Get in touch
 
 - Email: [ntalcme@proton.me](mailto:ntalcme@proton.me) · [ntalcme@tutamail.com](mailto:ntalcme@tutamail.com)
