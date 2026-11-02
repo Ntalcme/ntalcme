@@ -33,7 +33,8 @@ I'm largely self-taught: beyond my university courses, I learn by building thing
 
 - **Rust**: my main focus right now
 - **Haskell**: exploring functional programming
-
+- **Nix / NixOS**: declarative system configuration and reproducible environments
+- 
 ## Get in touch
 
 - Email: [ntalcme@proton.me](mailto:ntalcme@proton.me) · [ntalcme@tutamail.com](mailto:ntalcme@tutamail.com)
