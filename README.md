@@ -32,9 +32,8 @@ I'm largely **self-taught**: beyond my university courses, I learn by building t
 
 ## Currently learning
 
-- **Rust**: my main focus right now -> learning with **[rustlings-fr](https://github.com/AndreLeclercq/rustlings-fr)**, a french fork of [rustlings](https://github.com/rust-lang/rustlings)
+- **Rust**:learning with **[rustlings-fr](https://github.com/AndreLeclercq/rustlings-fr)**, a french fork of [rustlings](https://github.com/rust-lang/rustlings)
 - **Haskell**: exploring functional programming, mainly with university's courses
-- **Nix / NixOS**: declarative system configuration and reproducible environments, since it's my personal OS
 
 ## What I care about
 
