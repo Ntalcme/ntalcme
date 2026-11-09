@@ -34,6 +34,7 @@ I'm largely **self-taught**: beyond my university courses, I learn by building t
 
 - **Rust**:learning with **[rustlings-fr](https://github.com/AndreLeclercq/rustlings-fr)**, a french fork of [rustlings](https://github.com/rust-lang/rustlings)
 - **Haskell**: exploring functional programming, mainly with university's courses
+- **C**: learning by programming small projects ([nt_readline](https://github.com/Ntalcme/nt_readline))
 
 ## What I care about
 
