@@ -24,7 +24,7 @@ I'm largely **self-taught**: beyond my university courses, I learn by building t
 | Level | Technologies |
 |-------|--------------|
 | Main | TypeScript, JavaScript, Node.js, discord.js, Git |
-| Familiar with | Python, C, HTML/CSS, Docker, Linux (NixOS) |
+| Familiar with | Python, C, HTML/CSS, Docker, Linux |
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,discordjs,git,py,c,docker,linux&perline=9" alt="Tech stack icons" />
